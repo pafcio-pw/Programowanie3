@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9IMpnMTqpxSnuW70Pt8uAw2YwKOimragTKe4JNbPTcDbSnRim33B7SYYZ1L/fu9Xcy1/+THKfHWjPkiNgANKBg==",
+  "success": true,
+  "projectFilePath": "/home/pawel/Documents/Programowanie/cs/cs01/cs01_3/cs01_3.csproj",
+  "expectedPackageFiles": [
+    "/home/pawel/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

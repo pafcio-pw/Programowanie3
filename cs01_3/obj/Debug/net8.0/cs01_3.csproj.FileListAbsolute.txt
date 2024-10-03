@@ -1,0 +1,14 @@
+/home/pawel/Documents/Programowanie/cs/cs01/cs01_3/bin/Debug/net8.0/cs01_3
+/home/pawel/Documents/Programowanie/cs/cs01/cs01_3/bin/Debug/net8.0/cs01_3.deps.json
+/home/pawel/Documents/Programowanie/cs/cs01/cs01_3/bin/Debug/net8.0/cs01_3.runtimeconfig.json
+/home/pawel/Documents/Programowanie/cs/cs01/cs01_3/bin/Debug/net8.0/cs01_3.dll
+/home/pawel/Documents/Programowanie/cs/cs01/cs01_3/bin/Debug/net8.0/cs01_3.pdb
+/home/pawel/Documents/Programowanie/cs/cs01/cs01_3/obj/Debug/net8.0/cs01_3.GeneratedMSBuildEditorConfig.editorconfig
+/home/pawel/Documents/Programowanie/cs/cs01/cs01_3/obj/Debug/net8.0/cs01_3.AssemblyInfoInputs.cache
+/home/pawel/Documents/Programowanie/cs/cs01/cs01_3/obj/Debug/net8.0/cs01_3.AssemblyInfo.cs
+/home/pawel/Documents/Programowanie/cs/cs01/cs01_3/obj/Debug/net8.0/cs01_3.csproj.CoreCompileInputs.cache
+/home/pawel/Documents/Programowanie/cs/cs01/cs01_3/obj/Debug/net8.0/cs01_3.dll
+/home/pawel/Documents/Programowanie/cs/cs01/cs01_3/obj/Debug/net8.0/refint/cs01_3.dll
+/home/pawel/Documents/Programowanie/cs/cs01/cs01_3/obj/Debug/net8.0/cs01_3.pdb
+/home/pawel/Documents/Programowanie/cs/cs01/cs01_3/obj/Debug/net8.0/cs01_3.genruntimeconfig.cache
+/home/pawel/Documents/Programowanie/cs/cs01/cs01_3/obj/Debug/net8.0/ref/cs01_3.dll
